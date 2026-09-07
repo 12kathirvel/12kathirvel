@@ -183,15 +183,15 @@ This profile is where I share my learning journey, experiments and projects.
 
 <p align="center">
   <a href="mailto:nirmalkathir979@gmail.com" title="Email me">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.30.0/icons/gmail.svg" width="44" height="44" alt="Gmail" />
+    <img src="https://cdn.jsdelivr.net/npm/linna-icons/GmailColor.svg" width="48" height="48" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kathirvel12/" title="Connect on LinkedIn">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.30.0/icons/linkedin.svg" width="44" height="44" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/npm/linna-icons/LinkedinColor.svg" width="48" height="48" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ig_kathirvel/" title="Follow on Instagram">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.30.0/icons/instagram.svg" width="44" height="44" alt="Instagram" />
+    <img src="https://cdn.jsdelivr.net/npm/linna-icons/InstagramColor.svg" width="48" height="48" alt="Instagram" />
   </a>
 </p>
 
