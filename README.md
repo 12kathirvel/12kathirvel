@@ -174,7 +174,6 @@ I use online learning platforms and practical projects to strengthen my foundati
 This profile is where I share my learning journey, experiments and projects.
 
 - 📁 [View my repositories](https://github.com/12kathirvel?tab=repositories)
-- 👤 [Visit my GitHub profile](https://github.com/12kathirvel)
 
 ---
 
