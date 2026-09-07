@@ -182,24 +182,26 @@ This profile is where I share my learning journey, experiments and projects.
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:nirmalkathir979@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="44" height="44" alt="Gmail" />
+  <a href="mailto:nirmalkathir979@gmail.com" title="Email me">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" alt="Gmail" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kathirvel12/" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="44" height="44" alt="LinkedIn" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/kathirvel12/" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ig_kathirvel/" title="Instagram">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="44" height="44" alt="Instagram" />
+  &nbsp;
+  <a href="https://www.instagram.com/ig_kathirvel/" title="Follow on Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="42" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/12kathirvel" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="44" height="44" alt="GitHub" />
+  &nbsp;
+  <a href="https://github.com/12kathirvel" title="Visit GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="42" alt="GitHub" />
   </a>
 </p>
 
-<p align="center"><strong>👆 Tap a logo to connect</strong></p>
+<p align="center">
+  <sub>Each logo is a direct clickable link to the corresponding contact/profile URL.</sub>
+</p>
 
 ---
 
