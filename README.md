@@ -141,7 +141,7 @@ The project combines machine-learning analysis with **Weka** and **Microsoft Pow
 
 - ☕ **Java Programming Fundamentals / Introduction to Java**
 
-**+ 7+ certifications**
+- 🏆 **7+ certifications**
 
 I use online learning platforms and practical projects to strengthen my foundations in **programming, AI and data science**.
 
