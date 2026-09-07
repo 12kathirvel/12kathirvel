@@ -160,9 +160,17 @@ I continuously use online learning platforms to strengthen my programming, AI an
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:nirmalkathir979@gmail.com"><img src="https://img.shields.io/badge/Email-nirmalkathir979%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/kathirvel12/"><img src="https://img.shields.io/badge/LinkedIn-Kathirvel%20N-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/12kathirvel"><img src="https://img.shields.io/badge/GitHub-12kathirvel-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:nirmalkathir979@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kathirvel12/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/12kathirvel">
+    <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
+  </a>
 </p>
 
 <p align="center">
