@@ -178,7 +178,7 @@ I continuously use online learning platforms to strengthen my programming, AI an
 </p>
 
 <p align="center">
-  <strong>👆 Tap any icon above to connect with me</strong>
+  <strong>👆 Tap to connect</strong>
 </p>
 
 ---
