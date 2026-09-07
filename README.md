@@ -2,23 +2,22 @@
 
 **AI & Data Science Student · Aspiring AI Developer**
 
-> Learning · Building · Shipping
+> Learning · Building · Improving · Shipping
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm **Kathirvel N**, an **AI & Data Science student** from Madurai, Tamil Nadu, focused on turning ideas into practical software and AI projects.
+I'm **Kathirvel N**, a **B.Tech Artificial Intelligence & Data Science student** at **Ultra College of Engineering and Technology**, focused on building practical software, AI and data-driven projects.
 
-I'm currently pursuing **B.Tech in Artificial Intelligence & Data Science** at **Ultra College of Engineering and Technology** (2025–2029).
+I'm interested in **Artificial Intelligence, Machine Learning, Data Science, web development and UI/UX**, and I enjoy turning ideas into working projects.
 
-### What I enjoy building
-
-- 🤖 AI and machine-learning applications
-- 📊 Data analysis, visualization and predictive solutions
-- 🌐 Full-stack web applications
-- 🎨 Clean, modern and responsive UI/UX
-- 🚀 Projects that solve real-world problems
+- 🎓 B.Tech – Artificial Intelligence & Data Science
+- 📍 Madurai, Tamil Nadu, India
+- 📚 2025–2029
+- 📊 Current CGPA: **7.68**
+- 💡 Interested in practical AI and software development
+- 🚀 Learning through hands-on projects and continuous practice
 
 > **Learn → Build → Test → Improve → Ship**
 
@@ -26,46 +25,60 @@ I'm currently pursuing **B.Tech in Artificial Intelligence & Data Science** at *
 
 ## 🎓 Education
 
-| Institution | Program | Period |
+| Institution | Qualification | Details |
 |---|---|---|
 | **Ultra College of Engineering and Technology** | B.Tech – Artificial Intelligence & Data Science | 2025–2029 |
 | **Asian Matriculation and Higher Secondary School, Melur** | Higher Secondary (HSC) | Completed |
 
-**Current academic performance:** CGPA **7.68**
+**Current CGPA:** 7.68
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-### 💻 Languages
+### 💻 Programming
 
 - Python
 - Java
 - JavaScript
 - SQL
+- C / Computer Programming fundamentals
 
-### 🤖 AI / Data Science
+### 🤖 AI & Data Science
 
-- Pandas
+- Artificial Intelligence fundamentals
+- Machine Learning
 - NumPy
+- Pandas
 - Scikit-learn
-- TensorFlow
 - Jupyter
+- Weka
+- Microsoft Power BI
+- Data analysis and visualization
 
 ### 🌐 Web Development
 
 - HTML5
 - CSS3
-- React
-- Node.js
+- JavaScript
+- Responsive web development
+- UI/UX design and implementation
 
-### 🔧 Tools & Platforms
+### 🔧 Development & Deployment
 
 - Git
 - GitHub
 - VS Code
-- Docker
 - Vercel
+- Basic Docker / modern development workflows
+
+### 🧠 Currently Exploring
+
+- Machine Learning model development
+- NLP and LLM-based applications
+- AI-powered web applications
+- Full-stack AI application development
+- Cloud deployment
 
 ---
 
@@ -73,27 +86,48 @@ I'm currently pursuing **B.Tech in Artificial Intelligence & Data Science** at *
 
 ### 💙 Kaavu Healthcare
 
-An AI-focused healthcare web platform designed around accessible health information and a modern user experience.
+An AI-focused healthcare web application project built around accessible health information, AI assistance and a modern responsive user experience.
 
-**Focus:** AI assistance • Healthcare information • Responsive UI • Web application development
+**Focus:** AI • Healthcare • Web Development • UI/UX • Responsive Design
 
-🔗 [Repository](https://github.com/12kathirvel)
+**Deployment:**
+
+- 🌐 [Kaavu Healthcare](https://kaavu-healthcare.vercel.app/)
+- 🌐 [Original deployment](https://kaavu-healthcare-original-r8fn.vercel.app/)
 
 ---
 
 ### 🎮 ECHO CITY X
 
-A browser-based action game built with **HTML, CSS and JavaScript**, featuring character selection, movement, enemies, weapons, auto-aim and interactive gameplay systems.
+A browser-based action game developed using **HTML, CSS and JavaScript**.
 
-**Focus:** Game development • JavaScript • Gameplay systems • UI/UX
+The project includes:
 
-🔗 [Explore my repositories](https://github.com/12kathirvel?tab=repositories)
+- 👤 Male and female character selection
+- 🎮 Player movement and gameplay controls
+- 👾 Enemy systems and movement
+- 🔫 Weapons and shooting mechanics
+- 🎯 Auto-aim gameplay system
+- 🔄 Character and gun rotation behaviour
+- ⏸️ Pause menu
+- ⚙️ Settings and Information sections
+- 🖥️ PC and 📱 mobile versions
+- 🎨 Gameplay-focused UI/UX improvements
+
+**Focus:** JavaScript • Game Development • Gameplay Systems • UI/UX
+
+**Live versions:**
+
+- 🖥️ [PC Version](https://echo-city-umber.vercel.app/)
+- 📱 [Mobile Version](https://echo-city-mobile.vercel.app/)
 
 ---
 
 ### 📡 Ultrasound-Based Machine Learning Project
 
-An academic project exploring an **ultrasound-based machine-learning technique using Weka and Microsoft Power BI**, combining ML analysis with data visualization.
+An academic project titled **“Ultrasound based Machine Learning technique using Weka and Microsoft Power BI.”**
+
+The project combines machine-learning analysis with **Weka** and **Microsoft Power BI** for data visualization and presentation.
 
 **Focus:** Machine Learning • Weka • Power BI • Data Visualization
 
@@ -102,44 +136,52 @@ An academic project exploring an **ultrasound-based machine-learning technique u
 ## 📜 Certifications & Learning
 
 - 🏅 **IBM SkillsBuild – AI Literacy**
+  - Credential available through Credly
+  - [View IBM AI Literacy Credential](https://www.credly.com/badges/7e05c9ad-f9d2-4dd6-84d4-5bdf539ec852/public_url)
+
 - ☕ **Infosys Springboard – Programming Using Java**
+
 - ☕ **Java Programming Fundamentals / Introduction to Java**
 
-I continuously use online learning platforms to strengthen my programming, AI and data-science foundations.
+I use online learning platforms and practical projects to strengthen my foundations in **programming, AI and data science**.
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 What I'm Working Towards
 
-- 📊 GitHub profile: [12kathirvel](https://github.com/12kathirvel)
-- 📁 Repositories: [View my repositories](https://github.com/12kathirvel?tab=repositories)
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Python for AI and Data Science
-- Machine Learning and model development
-- NLP and LLM-based applications
-- Full-stack AI application development
-- Cloud deployment and modern development workflows
-- Git, GitHub and collaborative software development
+- 🤖 Building practical AI applications
+- 📊 Improving machine-learning and data-science skills
+- 🌐 Developing AI-powered web applications
+- 🧠 Learning NLP and LLM-based systems
+- 🚀 Deploying projects and improving development workflows
+- 💻 Becoming a stronger full-stack AI developer
+- 🌱 Building consistently throughout my degree
 
 ---
 
-## 🎯 My Goals
+## 🎯 Goals
 
-- Build practical AI projects that solve real problems
-- Strengthen my machine-learning and data-science skills
-- Become a strong full-stack AI developer
-- Contribute to meaningful open-source projects
-- Keep improving through consistent hands-on development
+- Build useful AI projects that solve real problems
+- Strengthen programming, ML and data-science fundamentals
+- Gain stronger full-stack development skills
+- Create and deploy more complete projects
+- Learn from real implementation rather than only theory
+- Contribute to open-source projects as my skills grow
+
+---
+
+## 📈 GitHub
+
+This profile is where I share my learning journey, experiments and projects.
+
+- 📁 [View my repositories](https://github.com/12kathirvel?tab=repositories)
+- 👤 [Visit my GitHub profile](https://github.com/12kathirvel)
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 [Email me](mailto:nirmalkathir979@gmail.com)
+- 📧 [Email](mailto:nirmalkathir979@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kathirvel12/)
 - 📸 [Instagram](https://www.instagram.com/ig_kathirvel/)
 
@@ -148,11 +190,11 @@ I continuously use online learning platforms to strengthen my programming, AI an
 ---
 
 <p align="center">
-  <b>🚀 Building today. Learning every day. Creating for tomorrow.</b>
+  <b>🚀 Learning today. Building tomorrow.</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/12kathirvel?tab=repositories">⭐ View My Repositories</a>
+  <a href="https://github.com/12kathirvel?tab=repositories">⭐ Explore My Repositories</a>
 </p>
 
 <p align="center">
