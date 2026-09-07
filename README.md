@@ -84,7 +84,7 @@ I'm interested in **Artificial Intelligence, Machine Learning, Data Science, web
 
 ## 🚀 Featured Projects
 
-### 💙 Kaavu Healthcare
+### 🤍 Kaavu Healthcare
 
 An AI-focused healthcare web application project built around accessible health information, AI assistance and a modern responsive user experience.
 
