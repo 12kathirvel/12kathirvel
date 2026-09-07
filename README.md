@@ -193,6 +193,10 @@ This profile is where I share my learning journey, experiments and projects.
   <a href="https://www.instagram.com/ig_kathirvel/" title="Instagram">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="44" height="44" alt="Instagram" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/12kathirvel" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="44" height="44" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center"><strong>👆 Tap a logo to connect</strong></p>
