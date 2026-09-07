@@ -189,7 +189,7 @@ This profile is where I share my learning journey, experiments and projects.
     <img src="https://cdn.jsdelivr.net/npm/linna-icons/LinkedinColor.svg" width="48" height="48" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ig_kathirvel/" title="Follow on Instagram">
+  <a href="https://www.instagram.com/ig_kathir_12/" title="Follow on Instagram">
     <img src="https://cdn.jsdelivr.net/npm/linna-icons/InstagramColor.svg" width="48" height="48" alt="Instagram" />
   </a>
 </p>
