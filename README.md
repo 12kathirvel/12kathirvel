@@ -136,11 +136,8 @@ The project combines machine-learning analysis with **Weka** and **Microsoft Pow
 ## 📜 Certifications & Learning
 
 - 🏅 **IBM SkillsBuild – AI Literacy**
-
+- 📊 **IBM SkillsBuild – Data Literacy**
 - ☕ **Infosys Springboard – Programming Using Java**
-
-- ☕ **Java Programming Fundamentals / Introduction to Java**
-
 - 🏆 **7+ certifications**
 
 I use online learning platforms and practical projects to strengthen my foundations in **programming, AI and data science**.
