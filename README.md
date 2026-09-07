@@ -171,10 +171,14 @@ I continuously use online learning platforms to strengthen my programming, AI an
   <a href="https://github.com/12kathirvel">
     <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ig_kathirvel/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="55" alt="Instagram"/>
+  </a>
 </p>
 
 <p align="center">
-  <strong>Open to learning • Collaborations • Internships • Open Source</strong>
+  <strong>👆 Tap any icon above to connect with me</strong>
 </p>
 
 ---
