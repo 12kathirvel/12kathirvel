@@ -182,17 +182,11 @@ This profile is where I share my learning journey, experiments and projects.
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:nirmalkathir979@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kathirvel12/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ig_kathirvel/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" height="45" alt="Instagram" />
-  </a>
+  <a href="mailto:nirmalkathir979@gmail.com">📧</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kathirvel12/">💼</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ig_kathirvel/">📸</a>
 </p>
 
 <p align="center"><strong>👆 Tap to connect</strong></p>
