@@ -2,7 +2,7 @@
 
 **AI & Data Science Student · Aspiring AI Developer**
 
-> Learning · Building · Improving · Shipping
+> Learning · Building · Improving
 
 ---
 
@@ -137,7 +137,6 @@ The project combines machine-learning analysis with **Weka** and **Microsoft Pow
 
 - 🏅 **IBM SkillsBuild – AI Literacy**
   - Credential available through Credly
-  - [View IBM AI Literacy Credential](https://www.credly.com/badges/7e05c9ad-f9d2-4dd6-84d4-5bdf539ec852/public_url)
 
 - ☕ **Infosys Springboard – Programming Using Java**
 
