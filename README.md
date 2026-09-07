@@ -198,27 +198,47 @@ A user-centric healthcare application providing accessible health information th
 
 ## 🔥 Contribution Activity
 
-### 📅 Yearly Contribution Summary
+<details open>
+<summary>
+  <h3>📅 GitHub Contribution Graph</h3>
+</summary>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12kathirvel&theme=tokyonight" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=12kathirvel&theme=tokyo-night&hide_border=true&color=00d9ff&bg_color=0d1117&line=00d9ff&point=00d9ff" width="100%"/>
 </p>
 
-### 📊 Contribution Graph
+</details>
+
+<details>
+<summary>
+  <h3>📊 Contribution Calendar (Click to expand)</h3>
+</summary>
+
+<div align="center">
+  
+[![12kathirvel's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=12kathirvel&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/12kathirvel)
+
+</div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=12kathirvel&bg_color=1a1b27&color=38f9d7&line=00d9ff&point=00d9ff&area=true&hide_border=true&theme=tokyo-night" width="100%"/>
+  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/examples/ashutosh00710.svg" width="100%"/>
 </p>
 
-### 🎯 Contribution Stats
+</details>
 
-| Metric | Value |
-|--------|-------|
-| 📈 **Total Contributions** | See graph above |
-| 🔄 **Repositories** | Active in multiple projects |
-| 💾 **Commits** | Regular contributor |
-| 🌟 **Popular Repos** | Check pinned repositories |
-| 🤝 **Collaborations** | Open to teamwork |
+<div align="center">
+
+### 📈 Contribution Stats
+
+| 🎯 Metric | 📊 Value |
+|:--------:|:--------:|
+| **Total Contributions** | 1000+ |
+| **Active Days** | 300+ |
+| **Current Streak** | See above ⬆️ |
+| **Repositories** | Growing |
+| **Commits** | Regular |
+
+</div>
 
 ---
 
