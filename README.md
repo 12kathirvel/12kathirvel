@@ -1,16 +1,8 @@
 # 👋 Hi, I'm Kathirvel N
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kathirvel%20N&fontSize=60&fontAlignY=40&desc=AI%20%26%20Data%20Science%20Student%20%7C%20AI%20Developer" alt="Kathirvel N header"/>
-</p>
+**AI & Data Science Student · Aspiring AI Developer**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Aspiring+AI+Developer;Building+AI-Powered+Applications;Learning+%7C+Building+%7C+Shipping" alt="Typing introduction"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=12kathirvel&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
-</p>
+> Learning · Building · Shipping
 
 ---
 
@@ -47,33 +39,33 @@ I'm currently pursuing **B.Tech in Artificial Intelligence & Data Science** at *
 
 ### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+- Python
+- Java
+- JavaScript
+- SQL
 
 ### 🤖 AI / Data Science
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+- Jupyter
 
 ### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- HTML5
+- CSS3
+- React
+- Node.js
 
 ### 🔧 Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+- Git
+- GitHub
+- VS Code
+- Docker
+- Vercel
 
 ---
 
@@ -119,14 +111,8 @@ I continuously use online learning platforms to strengthen my programming, AI an
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=12kathirvel&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&card_width=450" alt="Kathirvel's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12kathirvel&layout=compact&theme=github_dark&hide_border=true&card_width=450" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=12kathirvel&theme=github-dark&hide_border=true" alt="GitHub streak"/>
-</p>
+- 📊 GitHub profile: [12kathirvel](https://github.com/12kathirvel)
+- 📁 Repositories: [View my repositories](https://github.com/12kathirvel?tab=repositories)
 
 ---
 
@@ -153,23 +139,11 @@ I continuously use online learning platforms to strengthen my programming, AI an
 
 ## 📫 Let's Connect
 
-<p align="center">
-  <a href="mailto:nirmalkathir979@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="55" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kathirvel12/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ig_kathirvel/">
-    <img src="https://skillicons.dev/icons?i=instagram" width="55" alt="Instagram"/>
-  </a>
-</p>
+- 📧 [Email me](mailto:nirmalkathir979@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kathirvel12/)
+- 📸 [Instagram](https://www.instagram.com/ig_kathirvel/)
 
-<p align="center">
-  <strong>👆 Tap to connect</strong>
-</p>
+**👆 Tap to connect**
 
 ---
 
