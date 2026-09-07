@@ -15,7 +15,7 @@
 
 ## 📌 Quick Navigation
 
-[📁 Projects](#-featured-projects) | [📊 Stats](#-github-analytics) | [🛠️ Tech Stack](#️-tech-stack) | [💼 Experience](#-experience-highlights) | [💬 Connect](#-connect-with-me)
+[📁 Projects](#-featured-projects) | [📊 Stats](#-github-analytics) | [🔥 Contributions](#-contribution-activity) | [🛠️ Tech Stack](#️-tech-stack) | [💼 Experience](#-experience-highlights) | [💬 Connect](#-connect-with-me)
 
 ---
 
@@ -193,6 +193,32 @@ A user-centric healthcare application providing accessible health information th
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=12kathirvel&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🔥 Contribution Activity
+
+### 📅 Yearly Contribution Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12kathirvel&theme=tokyonight" width="100%"/>
+</p>
+
+### 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=12kathirvel&bg_color=1a1b27&color=38f9d7&line=00d9ff&point=00d9ff&area=true&hide_border=true&theme=tokyo-night" width="100%"/>
+</p>
+
+### 🎯 Contribution Stats
+
+| Metric | Value |
+|--------|-------|
+| 📈 **Total Contributions** | See graph above |
+| 🔄 **Repositories** | Active in multiple projects |
+| 💾 **Commits** | Regular contributor |
+| 🌟 **Popular Repos** | Check pinned repositories |
+| 🤝 **Collaborations** | Open to teamwork |
 
 ---
 
