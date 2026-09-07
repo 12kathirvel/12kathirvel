@@ -183,15 +183,15 @@ This profile is where I share my learning journey, experiments and projects.
 
 <p align="center">
   <a href="mailto:nirmalkathir979@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Email" />
+    <img src="https://img.icons8.com/ios-filled/50/EA4335/new-post.png" width="34" height="34" alt="Email" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kathirvel12/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn" />
+    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="34" height="34" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ig_kathirvel/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="36" height="36" alt="Instagram" />
+    <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="34" height="34" alt="Instagram" />
   </a>
 </p>
 
