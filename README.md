@@ -201,10 +201,6 @@ This profile is where I share my learning journey, experiments and projects.
 ---
 
 <p align="center">
-  <b>🚀 Learning today. Building tomorrow.</b>
-</p>
-
-<p align="center">
   <a href="https://github.com/12kathirvel?tab=repositories">⭐ Explore My Repositories</a>
 </p>
 
