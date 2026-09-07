@@ -9,12 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/12kathirvel"><img src="https://img.shields.io/badge/GitHub-12kathirvel-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/kathirvel12/"><img src="https://img.shields.io/badge/LinkedIn-Kathirvel%20N-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:nirmalkathir979@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=12kathirvel&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
@@ -166,10 +160,6 @@ I continuously use online learning platforms to strengthen my programming, AI an
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kathirvel12/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/12kathirvel">
-    <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ig_kathirvel/">
