@@ -178,17 +178,21 @@ This profile is where I share my learning journey, experiments and projects.
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kathirvel12/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:nirmalkathir979@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.credly.com/users/kathirvel12">Credly</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/ig_kathir_12/">Instagram</a>
-</p>
-
-<p align="center">
-  <sub>Click a link to connect.</sub>
+  <a href="https://www.linkedin.com/in/kathirvel12/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="32">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:nirmalkathir979@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="32">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/users/kathirvel12">
+    <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" height="32">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/ig_kathir_12/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="32">
+  </a>
 </p>
 
 ---
