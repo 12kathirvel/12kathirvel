@@ -179,10 +179,7 @@ This profile is where I share my learning journey, experiments and projects.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kathirvel12/" title="Connect on LinkedIn">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="48" height="48">
-      <rect width="24" height="24" rx="4" fill="#0A66C2"/>
-      <path fill="#FFFFFF" d="M6.1 8.05A1.95 1.95 0 1 0 6.1 4.15a1.95 1.95 0 0 0 0 3.9ZM4.4 19.85h3.4V9.35H4.4v10.5ZM9.8 9.35v10.5h3.4v-5.2c0-1.37.26-2.69 1.95-2.69 1.67 0 1.69 1.56 1.69 2.78v5.11h3.4v-5.76c0-2.83-.61-5-3.93-5-1.6 0-2.67.88-3.11 1.71h-.05V9.35H9.8Z"/>
-    </svg>
+    <img src="./assets/linkedin.svg" width="48" height="48" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:nirmalkathir979@gmail.com" title="Email me">
@@ -190,11 +187,7 @@ This profile is where I share my learning journey, experiments and projects.
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/users/kathirvel12" title="View my Credly profile">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="48" height="48">
-      <path fill="#FFB000" d="M32 2 57 16.5v29L32 60 7 45.5v-29L32 2Z"/>
-      <path fill="#FFFFFF" d="M32 11a21 21 0 1 0 14.85 35.85l-4.24-4.24A15 15 0 1 1 32 17a14.95 14.95 0 0 1 10.61 4.39l4.24-4.24A20.93 20.93 0 0 0 32 11Z"/>
-      <path fill="#FFFFFF" d="M32 23a9 9 0 1 0 0 18 9 9 0 0 0 0-18Zm0 6a3 3 0 1 1 0 6 3 3 0 0 1 0-6Z"/>
-    </svg>
+    <img src="./assets/credly.svg" width="48" height="48" alt="Credly" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ig_kathir_12/" title="Follow on Instagram">
