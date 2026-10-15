@@ -178,12 +178,16 @@ This profile is where I share my learning journey, experiments and projects.
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:nirmalkathir979@gmail.com" title="Email me">
-    <img src="https://cdn.jsdelivr.net/npm/linna-icons/GmailColor.svg" width="48" height="48" alt="Gmail" />
+  <a href="https://www.linkedin.com/in/kathirvel12/" title="Connect on LinkedIn">
+    <img src="./assets/linkedin.svg" width="48" height="48" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kathirvel12/" title="Connect on LinkedIn">
-    <img src="https://cdn.jsdelivr.net/npm/linna-icons/LinkedinColor.svg" width="48" height="48" alt="LinkedIn" />
+  <a href="mailto:nirmalkathir979@gmail.com" title="Email me">
+    <img src="https://cdn.jsdelivr.net/npm/linna-icons/GmailColor.svg" width="48" height="48" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/users/kathirvel12" title="View my Credly profile">
+    <img src="./assets/credly.svg" width="48" height="48" alt="Credly" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ig_kathir_12/" title="Follow on Instagram">
@@ -192,7 +196,7 @@ This profile is where I share my learning journey, experiments and projects.
 </p>
 
 <p align="center">
-  <sub>Click a logo to connect.</sub>
+  <sub>Tap to connect.</sub>
 </p>
 
 ---
